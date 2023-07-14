@@ -1,0 +1,1 @@
+### Test building a Javascript WASM module for using ttf-parser-rs with the help of wasm-pack
